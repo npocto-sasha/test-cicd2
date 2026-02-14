@@ -2,4 +2,4 @@
 venv/
 
 #Байт-код python
-*.py
+*.pyc
